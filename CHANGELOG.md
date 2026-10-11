@@ -1,5 +1,18 @@
 # Changelog
 
+## [6.5.0](https://github.com/morluto/rea/compare/rea-agents-6.4.0...rea-agents-6.5.0) (2026-10-11)
+
+
+### Performance Improvements
+
+* **evidence:** fuse streamed JSON token handling ([#1694](https://github.com/morluto/rea/issues/1694)) ([13e03e9](https://github.com/morluto/rea/commit/13e03e94363a007353fcb5dfedec764de12fc927))
+* **mcp:** keep Playwright and type-only imports off MCP startup ([#1691](https://github.com/morluto/rea/issues/1691)) ([0ecf3f2](https://github.com/morluto/rea/commit/0ecf3f2438ec96a6b543942869808018e8d84452))
+
+
+### Documentation
+
+* **setup:** confirm published 6.4.0 client support ([57c5aca](https://github.com/morluto/rea/commit/57c5acac2e13fd7f0e3832bc147c7ceda8c314f2))
+
 ## [6.4.0](https://github.com/morluto/rea/compare/rea-agents-6.3.0...rea-agents-6.4.0) (2026-10-11)
 
 ### Highlights
